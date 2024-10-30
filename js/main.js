@@ -12,9 +12,8 @@
     spinner();
     
     
-    // Initiate the wow
+    // Initiate the wowjs
     new WOW().init();
-
 
 
     // Sticky Navbar
